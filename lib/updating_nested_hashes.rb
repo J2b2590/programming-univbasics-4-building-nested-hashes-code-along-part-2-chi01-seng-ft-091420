@@ -62,15 +62,11 @@ def add_characters
    # Code your solution here:
 
   puts epic_tragedy[:additional_characters] = []
-  puts  prince = {name: "Prince Excalus"}
+  puts  prince = {name: "Prince Escalus"}
   puts  apothecary = {name: "Apothecary"}
 
   epic_tragedy[:additional_characters] << prince
   epic_tragedy[:additional_characters] << apothecary
-
-
-
-
 
 
    # After your code, the following line will return the altered hash
