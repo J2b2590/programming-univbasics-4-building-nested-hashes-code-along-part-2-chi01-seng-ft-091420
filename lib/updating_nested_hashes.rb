@@ -62,7 +62,8 @@ def add_characters
    # Code your solution here:
 
   puts epic_tragedy[:additional_characters] = []
-
+  puts  prince = {name: "Prince Excalus"}
+  puts  apothecary = {name: "Apothecary"}
 
 
 
